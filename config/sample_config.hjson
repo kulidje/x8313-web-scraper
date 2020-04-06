@@ -1,0 +1,6 @@
+# gts stands for Guaranteed Tip Sheet @ guaranteedtipsheet.com
+# please fill your user name and password for the website
+gts_username: abc
+gts_password: def
+# manually set output directory
+output: /

@@ -1,0 +1,8 @@
+config.hjson
+output
+output/*
+__pycache__/*
+apps/__pycache__/*
+.DS_Store
+config/__pycache__/*
+.idea/
