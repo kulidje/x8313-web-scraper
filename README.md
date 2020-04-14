@@ -1,7 +1,7 @@
-# X8313 Web Scraper
+# X8313 Web Scraper Example
 Showcasing key functionality from X8313 Inc: This is a functional web scraper for a paid subscription of guaranteedtipsheet.com (GTS), a horse-race hadicapper service. 
 
-In order to do data-analysis, you need processed, clean data that is consistently available programatically. In other words, we need to change the format from the web-browser to something more structured like a csv file. This is the basic idea behind web-scraping. The following pictures will help illustrate the process. 
+In order to do data-analysis, you need processed, clean data that is consistently available programatically. To do this you need to change the format from the web-browser data to something more structured like a csv file. This is the basic idea behind web-scraping. The following will help illustrate the process using an example of a web scraper I built for X8313 Inc.
 
 ## guaranteedtipsheet.com
 ![](pics/gts_web_opening.png)
