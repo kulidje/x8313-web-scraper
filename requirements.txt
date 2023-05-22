@@ -1,6 +1,6 @@
 bs4
 pandas==0.22.0
-requests==2.23.0
+requests==2.31.0
 hjson
 lxml
 html5lib
